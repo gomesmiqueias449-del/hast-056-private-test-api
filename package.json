@@ -1,0 +1,12 @@
+{
+  "name": "hast-056-private-test-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sanitized stateless guest-login test API with read-only tournament proxy",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
